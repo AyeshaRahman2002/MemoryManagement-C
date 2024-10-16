@@ -17,3 +17,10 @@ This project demonstrates custom memory management in the C programming language
 Use the following command to compile the code:
 ```bash
 gcc -o memory_management memory_management.c
+```
+
+## Usage
+After compiling, you can run the executable:
+```bash
+./memory_management
+```
